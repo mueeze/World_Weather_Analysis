@@ -1,5 +1,8 @@
 # Adding config.py file
 config.py
+../Module_6_Challenge/Weather_Database/config.py
+../Module_6_Challenge/Vacation_Search/config.py
+../Module_6_Challenge/Vacation_Itinerary/config.py
 
 # Adding Additional files
 API_practice.ipynb
